@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Meriel Nguyen
 
 #### Your section leader's name
 
-TODO
+Meriel Nguyen
 
 #### Project title
 
-TODO
+Save The turtles
 
 ***
 
@@ -18,12 +18,14 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have a draft and structure for 5 pages for my website. I just need to work more with the graphics
+
 
 #### What have you not done for your project yet?
 
-TODO
+ need to work on the information displays on the website
 
 #### What problems, if any, have you encountered?
 
-TODO
+
+Sometimes the file is to heavy, I have experienced crash and lost some of my work
