@@ -1,5 +1,9 @@
 # finalwebproject - link
+1. website
 https://tun35568.wixsite.com/savetheturtle-meriel
+2. youtube video
+https://youtu.be/9lcsigKE7No
+3. the code is under repo final website code
 
 
 ## What idea(s) do you have for your final project?
